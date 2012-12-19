@@ -33,4 +33,4 @@ Your local web server should now be accessible at the URL given after deploying 
 This Fork
 ---------
 
-This fork is maintained by the folks at `AutoRef <https://autoref.com>`_
+This fork is maintained by the folks at [AutoRef](https://autoref.com)
